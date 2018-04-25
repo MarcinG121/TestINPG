@@ -1,5 +1,8 @@
 this is my fist text file
 jadsjadsjkdask jkasdjkadsjadsjk
+<<<<<<< HEAD
 Main
 Mainik
 
+=======
+>>>>>>> 8783eec0f1786c909e45cc3475fe49d185969322
